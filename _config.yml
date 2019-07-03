@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chris Wilson"
+title                    : "Chris Wilson's Data Science Portfolio"
 title_separator          : "-"
 name                     : "Chris Wilson"
-description              : "Data Science Portfolio"
+description              : "A Beginner's Data Science Portfolio"
 url                      : "cwils021.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
