@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src=cwils021.github.io/images/dummy_thumbnail.jpg?raw=true/>
+<img src="Images/dummy_thumbnail.jpg">
 
 ---
 
