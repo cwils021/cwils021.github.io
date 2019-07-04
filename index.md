@@ -5,7 +5,7 @@
 
 
 [Stanley Cup Champions Webscraper](https://github.com/cwils021/Stanley-Cup-Champs-1927-2019/blob/master/StanleyCupChamp1927_2019_VBAScript.md)
-<img src="Images/Stanley_cup.jpg">
+<img src="Images/Stanley_cup.jpg" width="600" height="250">
 
 ---
 
