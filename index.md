@@ -2,30 +2,14 @@
 
 ---
 
-### Category Name 1
 
-[Project 1 Title](/sample_page)
-<img src="Images/dummy_thumbnail.jpg">
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-![test pic](Images/dummy_thumbnail.jpg)
-
----
-[Project 3 Title](http://example.com/)
-<img src="Images/dummy_thumbnail.jpg">
+[Stanley Cup Champions Webscraper](https://github.com/cwils021/Stanley-Cup-Champs-1927-2019/blob/master/StanleyCupChamp1927_2019_VBAScript.md)
+<img src="Images/Stanley_cup.jpg">
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
