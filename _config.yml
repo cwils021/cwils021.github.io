@@ -3,9 +3,12 @@ logo: \images\profile_pic.jpg # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   <br>I plan to use this data science portfolio to showcase projects I create to develop my skills in
-   VBA, SQL, Python, R, and Java  <br>
+   VBA, SQL, Python, R, and Java
 
-   
+
+   <br>
+
+
   Second description
   <br><br>
   <a href="https://www.linkedin.com/in/cwilson25">View My LinkedIn Profile</a>
