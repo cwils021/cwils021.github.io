@@ -9,7 +9,7 @@
 ---
 [encode - Text encryptor using a Caesar cipher in C](https://github.com/cwils021/encode)
 
-
+---
 [Stanley Cup Champions 1927-2019: Exploratory Data Analysis](/Notebooks/Stanley_Cup_Champions_1927-2019.html)
 
 ---
